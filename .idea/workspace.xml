@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1bb2540-1839-4367-bdfb-a454dff3ac5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lpdTR8uCqFhCyvBqx77ZuOvFwg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="npm.test (1)">
+    <configuration name="Converter test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/api.js" />
+      <test-names>
+        <test-name value="Converter test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dummy Test Suite" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/api.js" />
+      <test-names>
+        <test-name value="Dummy Test Suite" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../zh/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test (1)" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.Converter test" />
+        <item itemvalue="Jest.Dummy Test Suite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1bb2540-1839-4367-bdfb-a454dff3ac5e" name="Default Changelist" comment="" />
+      <created>1608297974332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608297974332</updated>
+      <workItem from="1608297975941" duration="557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="90" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608298146011">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="163" y="90" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1608298146011" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom" timestamp="1608298454107">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608298454107" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center" timestamp="1608298454105">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608298454105" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left" timestamp="1608298454104">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608298454104" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right" timestamp="1608298454106">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608298454106" />
+  </component>
+</project>
